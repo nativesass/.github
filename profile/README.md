@@ -7,4 +7,4 @@
 
 ## ⚛️ About
 
-Welcome to NativeSass! Here you will find a lot of productivity features for styling on your React Native projects. Enjoy nesting, shared styles, shorthand properties, and much more!
+Welcome to NativeSass! Here you will find a lot of productivity features for styling your React Native projects. Enjoy nesting, shared styles, shorthand properties, and much more!
